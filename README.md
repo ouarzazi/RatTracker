@@ -23,5 +23,14 @@ The following is the directory structure for the collected rat videos:
 
 ![Capture_1](https://github.com/ouarzazi/RatTracker/assets/134293350/623075b5-bd84-4406-bf34-1409ec289183)
 
+## Data Labeling and Tracking
+
+To analyze the collected rat videos, we utilized DeepLabCut, a popular tool for markerless pose estimation. The following steps were performed for labeling and tracking:
+
+1. Set up DeepLabCut environment and dependencies.
+2. Defined a project for each rat type and configured the desired number of points to track (e.g., 10 points).
+3. Manually labeled a subset of frames in each video to train the DeepLabCut model.
+4. Performed model training and refined the network for accurate tracking.
+5. Applied the trained model to automatically track the chosen points of interest on the rats throughout the videos.
 
 
