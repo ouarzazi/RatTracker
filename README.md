@@ -21,4 +21,7 @@ The collected rat data is in video format, providing a rich visual representatio
 
 The following is the directory structure for the collected rat videos:
 
+![Capture_1](https://github.com/ouarzazi/RatTracker/assets/134293350/623075b5-bd84-4406-bf34-1409ec289183)
+
+
 
